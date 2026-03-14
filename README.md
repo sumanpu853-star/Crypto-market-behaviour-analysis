@@ -48,13 +48,6 @@ Bash
 pip install pandas numpy matplotlib seaborn scikit-learn xgboost shap
 Place the Hyperliquid_Trades.csv and Fear_Greed_Index.csv files in the root directory.
 
-Run the Jupyter Notebook or Python scripts in sequential order:
-
-01_data_cleaning_and_merge.py
-
-02_descriptive_analytics.py
-
-03_advanced_ml_modeling.py
 
 👨‍💻 Author
 Suman Patel
